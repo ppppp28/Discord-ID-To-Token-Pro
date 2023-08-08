@@ -19,9 +19,10 @@ If you want to help with the development, feel free to make a pull request.
 Open 'Install-Requirements.bat' or manualy install 'requirements.txt' in 'recursos' file.
 
 # Credits
-My [GitHub](https://github.com/ppppp28/Discord-ID-To-Token-Pro/issues)
-- **Guides and Tutorials**: Find detailed tutorials on how to enhance the security of your Discord server, how to identify and protect against common threats, and how to educate your community members about safe online practices.
+- **My [GitHub](https://github.com/ppppp28/Discord-ID-To-Token-Pro/issues)**
+  
+- **Discord**: @ppppppp.xyz
 
-- **Security Tools**: Explore a selection of tools designed to assess the security of your Discord servers, such as malicious bot scanners, permission audits, and more. Remember to use these tools responsibly and only in environments where you have permission to evaluate.
+- **Discord Server**: [Free Vault #2](https://discord.gg/xMMF5FUYnW)
 
-- **Ethics Resources**: Here you'll find discussions and documents related to ethics in computer security and ethical hacking. Learn about the principles and practices that should guide your actions to ensure you positively contribute to the community.
+- **Telegram**: @pppppp_xyz
