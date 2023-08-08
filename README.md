@@ -13,7 +13,7 @@ Submit requests and bugs in the [issues](https://github.com/ppppp28/Discord-ID-T
 If you want to help with the development, feel free to make a pull request.
 
 
-![](https://github.com/ppppp28/Discord-ID-To-Token-Pro/recursos/img/Captura de pantalla 2023-08-07 225705.png)
+[imagen](https://github.com/ppppp28/Discord-ID-To-Token-Pro/recursos/img/image.png)
 
 # Setup
 Open 'Install-Requirements.bat' or manualy install 'requirements.txt' in 'recursos' file.
