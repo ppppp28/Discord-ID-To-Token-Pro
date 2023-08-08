@@ -19,9 +19,7 @@ If you want to help with the development, feel free to make a pull request.
 Open 'Install-Requirements.bat' or manualy install 'requirements.txt' in 'recursos' file.
 
 # Credits
-
+My [GitHub](https://github.com/ppppp28/Discord-ID-To-Token-Pro/issues)
 Discord: @ppppppp.xyz
-Telegram: @pppppp_xyz
-Server: https://discord.gg/xMMF5FUYnW
--------------------------------------------
-THIS TOOL IS ONLY FOR EDUCATIONAL PURPOSES, DON'T USE IT TO DO SOMETHING ILLEGAL!
+Discord Server: https://discord.gg/xMMF5FUYnW
+Telegram: pppppp_xyz
